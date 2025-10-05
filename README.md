@@ -91,7 +91,7 @@ Some of my key open-source projects ↓
     <td width="45%" valign="top">
       <h3>🤖 <a href="https://github.com/Raslan2000/Agent-OS">Agent OS</a></h3>
       <p>A modular multi-agent orchestration framework for intelligent task execution.</p>
-      <p><b>Tech:</b> Python · LangChain · Multi-Agent Systems</p>
+      <p><b>Tech:</b> Python · Google ADK A2A · Multi-Agent Systems</p>
     </td>
   </tr>
 </table>
